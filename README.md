@@ -1,5 +1,7 @@
 # Contact List App
 
+https://contact-list-app-df995.web.app/
+
 This project was created using react and tailwind css
 
 ## Features
@@ -11,3 +13,7 @@ This project was created using react and tailwind css
 3. The contact app has a search filed 
 
 4. I also made use react router and redux toolkit
+
+Live Url
+
+https://contact-list-app-df995.web.app/
